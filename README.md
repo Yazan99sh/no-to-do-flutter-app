@@ -1,6 +1,6 @@
 # notodo_app
 
-A new Flutter project.
+Flutter app using sqlite.
 
 ## Getting Started
 
